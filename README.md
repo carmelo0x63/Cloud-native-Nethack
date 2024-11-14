@@ -20,7 +20,7 @@ $ docker run -d \
   carmelo0x63/nethack-ssh:latest
 ```
 
-What the command above does?<br/>
+What does the command above do?<br/>
 It first pulls (a.k.a. downloads, unless it is already stored locally) image `nethack-ssh` from repository `carmelo0x63` on [Docker Hub])(https://hub.docker.com).<br/>
 Then it runs the image in a container while exposing its port 22 (internal) to port 49222 (external). It also binds `savefiles` (local directory) to `/var/games/nethack/save` directory inside the container itself.<br/>
 
