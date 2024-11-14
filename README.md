@@ -1,4 +1,4 @@
-# Cloud-native-Nethack
+# Nethack, but cloud-native
 The name says it all, this is good old [Nethack](https://www.nethack.org/) (the ASCII game) running in a container. Have fun!
 
 ----
