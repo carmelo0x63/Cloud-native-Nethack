@@ -1,5 +1,5 @@
 # Cloud-native-Nethack
-The name says it all, this is good old [Nethack](https://www.nethack.org/) running in a container. Have fun!
+The name says it all, this is good old [Nethack](https://www.nethack.org/) (the ASCII game) running in a container. Have fun!
 
 ----
 
