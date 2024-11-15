@@ -30,3 +30,5 @@ Under the hood, the image is just Alpine Linux running Nethack (`nethack-3.6.7-r
 To connect to the game one has to run `ssh -p 49222 nethack@<ip_address>`.<br/>
 
 Enjoy!
+
+Credits: [The Dev Team](https://www.moma.org/artists/133813)
