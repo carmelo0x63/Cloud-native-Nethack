@@ -6,7 +6,8 @@ The name says it all, this is good old [Nethack](https://www.nethack.org/) (the 
 <pre>
   Congratulations adventurer!
   Your quest is at an end for you have reached the home of NetHack.
-  Within, the Wizard of Yendor has no power, the Oracle speaks with utmost clarity, and the grid bugs do not bite.
+  Within, the Wizard of Yendor has no power, the Oracle speaks with utmost clarity,
+  and the grid bugs do not bite.
   Click friend and enter].
 </pre>
 
